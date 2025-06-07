@@ -5,3 +5,6 @@ langchain-openai
 langchain-groq
 langchain-core
 langchain-community
+langgraph
+wikipedia
+youtube-search
